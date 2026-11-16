@@ -1,0 +1,22 @@
+// YARD-7 palette: dusk blues, one hot sun accent, VANGUARD teal vs EMBER red.
+export const PALETTE = {
+  canvas: 0x12161f,
+  skyTop: 0x1c2739,
+  skyLow: 0x3a2c33,
+  sun: 0xff9a3c,
+  fog: 0x232030,
+  floor: 0x3a3f45,
+  wall: 0x2b3038,
+  ink: 0xeef1f4,
+  muted: 0x93a0ae,
+  accent: 0xff9a3c,
+  teal: 0x35c4b5,
+  ember: 0xff5a3c,
+  containerOrange: 0xc96a2e,
+  containerTeal: 0x2e7f7a,
+  containerOlive: 0x6b7040,
+  containerGrey: 0x5a636e,
+  containerRust: 0x8a4a30,
+  crate: 0x7a6a4f,
+  hazard: 0xe8b93a,
+};
